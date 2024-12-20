@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bg-color-changer/static/css/main.f855e6bc.css",
+    "main.js": "/bg-color-changer/static/js/main.f2a58ca1.js",
+    "static/js/453.563fe74d.chunk.js": "/bg-color-changer/static/js/453.563fe74d.chunk.js",
+    "index.html": "/bg-color-changer/index.html",
+    "main.f855e6bc.css.map": "/bg-color-changer/static/css/main.f855e6bc.css.map",
+    "main.f2a58ca1.js.map": "/bg-color-changer/static/js/main.f2a58ca1.js.map",
+    "453.563fe74d.chunk.js.map": "/bg-color-changer/static/js/453.563fe74d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f2a58ca1.js"
+  ]
+}
